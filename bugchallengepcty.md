@@ -407,7 +407,7 @@ Resolution [2560 × 1600]
 
 <details>
 
-<summary>Bug 08-API -  Incorrect Response for DELETE Request with recently deleted Employee ID</summary>
+<summary>Bug 09-API -  Incorrect Response for DELETE Request with recently deleted Employee ID</summary>
 
 
 ## Description
@@ -458,7 +458,10 @@ Resolution [2560 × 1600]
 
 </details>
 
-<summary>Bug 09-API -  Incorrect Response for DELETE Request with Invalid Employee ID</summary>
+<details>
+
+
+<summary>Bug 10-API -  Incorrect Response for DELETE Request with Invalid Employee ID</summary>
 
 
 ## Description
@@ -498,7 +501,6 @@ It can also impact third-party integrations, user experience, and security. The 
 
 
 
-
 ## Device Details:
 Postman Version: 10.17.3-230823-0523
 OS: MacOs 15.1
@@ -510,7 +512,7 @@ Resolution [2560 × 1600]
 
 <details>
 
-<summary>Bug 10-API -  Incorrect Response for GET Request with Non-Existing Employee ID</summary>
+<summary>Bug 11-API -  Incorrect Response for GET Request with Non-Existing Employee ID</summary>
 
 
 ## Description
@@ -565,7 +567,7 @@ Resolution [2560 × 1600]
 
 <details>
 
-<summary>Bug 11-API -  500 Internal Server Error with Invalid ID in GET Request Body for GET Employee </summary>
+<summary>Bug 12-API -  500 Internal Server Error with Invalid ID in GET Request Body for GET Employee </summary>
 
 
 ## Description
@@ -619,7 +621,7 @@ Resolution [2560 × 1600]
 
 <details>
 
-<summary>Bug 12-API -  Inconsistent Response for PUT Request with Unchanged User Details</summary>
+<summary>Bug 13-API -  Inconsistent Response for PUT Request with Unchanged User Details</summary>
 
 
 ## Description
@@ -666,7 +668,7 @@ Resolution [2560 × 1600]
 
 <details>
   
-<summary>Bug 13-API -Duplicate Employee Creation Allowed with Identical Details</summary>
+<summary>Bug 14-API -Duplicate Employee Creation Allowed with Identical Details</summary>
 
 
 ## Description
@@ -720,7 +722,7 @@ Resolution [2560 × 1600]
 
 <details>
   
-<summary>Bug 14-UI -First Name and Last Name Fields Accept Numeric Characters</summary>
+<summary>Bug 15-UI -First Name and Last Name Fields Accept Numeric Characters</summary>
 
 
 ## Description
@@ -776,7 +778,7 @@ Resolution [2560 × 1600]
 
 <details>
   
-<summary>Bug 15-UI -No Validation Error Message for Invalid Dependent Field Input</summary>
+<summary>Bug 16-UI -No Validation Error Message for Invalid Dependent Field Input</summary>
 
 
 ## Description
