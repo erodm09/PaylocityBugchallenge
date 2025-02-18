@@ -27,7 +27,7 @@ Additionally you can opt to Run the entire collection so all the tests are run a
 
 Other options: Clone the Repository: Begin by cloning this repository to your local machine using the following command:
 
-git clone < https://github.com/erodm09/PaylocityTask.git>
+git clone < https://github.com/erodm09/PaylocityBugchallenge.git>
 
 Explore the Bugs
 Navigate through the repository to find detailed bug reports found for various scenarios. Each bug report includes a description of the bug, steps to reproduce, expected behavior, actual behavior, impact, priority, and screenshots.
