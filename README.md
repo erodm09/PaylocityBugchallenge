@@ -7,7 +7,7 @@ On the file named bugchallengepcty.md  you will see tne different dropdown Bugs 
 On the file QA Challenge- Master.postman_collection.json you will find the Postman Collection used to run the API tests with all the mentioned requets that are detailed in the Bugs found along with the assertions made.
 As well you will find the file for the environment that was made : Benefits-Paylocity.postman_environment.json. 
 
-Run the Postman Collection: To test any potential bug fixes or to run the collection to re-verify the bugs, and running the assertions, you can use the provided Postman Collection. The collection includes API requests to replicate the reported bugs and verify that the solutions are effective.
+Run the Postman Collection: To test any potential bug fixes or to run the collection to re-verify the bugs, and running the API requests with the assertions, you can use the provided Postman Collection and environment. The collection includes API requests with assertions made.
 
 -Step 1: Download and install Postman.
 
